@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\styles.scss"],"names":[],"mappings":"AAAA,kCACE,cADF,6BACE,cADF,2BACE,cADF,sBACE,cADF,yBACE","file":"parcel-experiments.9b704191.css","sourceRoot":"..","sourcesContent":[".title:fullscreen {\r\n  color: skyblue;\r\n}\r\n"]}

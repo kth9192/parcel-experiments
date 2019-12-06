@@ -6,7 +6,7 @@ React project wieth parcel as as code builder
 
 - React ✅
 - ES6 with Babel ✅
-- SCSS
-- CSS Modules
-- Typography.js
-- Buld for production
+- SCSS ✅
+- CSS Modules ✅
+- Typography.js✅
+- Buld for production✅
