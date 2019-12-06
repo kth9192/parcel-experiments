@@ -1,0 +1,20 @@
+{
+  "name": "parcel-experiments",
+  "version": "1.0.0",
+  "description": "react project wieth parcel as as code builder",
+  "main": "index.js",
+  "repository": "https://github.com/kth9192/parcel-experiments.git",
+  "author": "kth919 <kth9193@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
